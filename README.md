@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrisJe&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrisJe&theme=radical&langs_count=10)
+
