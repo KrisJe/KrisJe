@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently looking for work as embedded software developer
+- 🔭 I’m currently looking for work as embedded software engineer
 - 🌱 I’m currently learning Rust🦀
 <!--
 **KrisJe/KrisJe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
