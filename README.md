@@ -3,6 +3,9 @@
 
 - 🔭 I’m currently available for hire if you are in need of an embedded software engineer
 - 🌱 I’m currently learning Rust🦀
+
+[You can find my cv here](https://kristof-kiekens.netlify.app/)
+
 <!--
 **KrisJe/KrisJe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
