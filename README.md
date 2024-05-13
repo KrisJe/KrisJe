@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently available for hire if you are in need of an embedded software engineer
-- 🌱 I’m currently learning Rust🦀
+- I’m currently available for hire if you are in need of an embedded software engineer [curriculum vitae](https://kristof-kiekens.netlify.app/)
+- I’m currently learning the Rust🦀 language
+- Evaluating Rust for embedded platforms
+- I’m looking for help with finding people who would be interested in introducing Rust into there embedded app.
 
-[curriculum vitae](https://kristof-kiekens.netlify.app/)
 
 <!--
 **KrisJe/KrisJe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
