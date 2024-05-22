@@ -2,7 +2,7 @@
 
 
 - I’m currently available for hire if you are in need of an embedded software engineer [curriculum vitae](https://kristof-kiekens.netlify.app/)
-- I’m currently learning the Rust🦀 language
+- I’m currently learning the Rust🦀 language ![babygrad](https://github.com/KrisJe/babygrad)
 - Evaluating Rust for embedded platforms
 - I’m looking for help with finding people who would be interested in introducing Rust into there embedded app.
 
