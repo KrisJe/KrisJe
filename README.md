@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 
-- I’m currently available for hire if you are in need of an embedded software engineer [curriculum vitae](https://kristof-kiekens.netlify.app/)
+- I’m currently available for hire if you are in need of an embedded software engineer. 
 - I’m currently learning the Rust🦀 language ![babygrad](https://github.com/KrisJe/babygrad)
 - Evaluating Rust for embedded platforms ![BeagleV®-Fire](https://www.beagleboard.org/boards/beaglev-fire)
-- Currently switching over from VSCode to Zed as prefered editor
-- I’m looking for help with finding people who would be interested in introducing Rust into there embedded app.
+- I’m looking working on an clayplex ![clayplex](https://github.com/KrisJe/clayplex) my own multi session command line AI assistant sidekick.
 
 
 <!--
