@@ -4,7 +4,7 @@
 - I’m currently as an independant consultant as embedded software engineer at [Verhaert](https://verhaert.consulting/). 
 - My first project in Rust🦀 ![babygrad](https://github.com/KrisJe/babygrad)
 - Evaluating Rust for embedded platforms ![BeagleV®-Fire](https://www.beagleboard.org/boards/beaglev-fire)
-- I’m looking working on an clayplex ![clayplex](https://github.com/KrisJe/clayplex) my own multi session command line AI assistant sidekick.
+
 
 
 <!--
