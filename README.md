@@ -4,7 +4,7 @@
 - I’m currently as an independant consultant as embedded software engineer at [Verhaert](https://verhaert.consulting/). 
 - My first project in Rust🦀 ![babygrad](https://github.com/KrisJe/babygrad)
 - Evaluating Rust for embedded platforms ![BeagleV®-Fire](https://www.beagleboard.org/boards/beaglev-fire)
-
+- Working on a Pinescript v6 runtime in Rust for paper and live trading
 
 
 <!--
