@@ -35,3 +35,4 @@ Here are some ideas to get you started:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrisJe&theme=radical&langs_count=10)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=KrisJe&theme=radical)
