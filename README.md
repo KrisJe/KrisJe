@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Hi there 👋
+## Hi there 👋
 
 I'm Kristof, an Embedded Software Engineer with a passion for embedded systems, technology and recently algo trading.
 
@@ -10,7 +8,7 @@ I'm Kristof, an Embedded Software Engineer with a passion for embedded systems, 
 - 🦀 Building my first Rust project: [babygrad](https://github.com/KrisJe/babygrad).
 - 🔬 Evaluating Rust for embedded platforms, currently experimenting with the [BeagleV®-Fire](https://www.beagleboard.org/boards/beaglev-fire) platform.
 
-## Areas of Interest
+# Areas of Interest
 
 - Embedded Software Engineering
 - Industrial Control Systems
