@@ -4,7 +4,7 @@ I'm Kristof, an Embedded Software Engineer with a passion for embedded systems, 
 
 - 🚀 Author and maintainer of **PineconeX**, an in-house built Pine Script® v6 interpreter.
 - 📈 Developing **pineconex-web**, a trading platform for backtesting and automated trading powered by the Pine Script® v6 runtime. Visit: [https://pineconex.com](https://pineconex.com)
-- 💼 Currently working as an independent consultant in embedded software engineering at [Verhaert Consulting](https://verhaert.consulting/). Open for new opportunities.
+- 💼 Currently open for new opportunities.
 - 🦀 Building my first Rust project: [babygrad](https://github.com/KrisJe/babygrad).
 - 🔬 Evaluating Rust for embedded platforms, currently experimenting with the [BeagleV®-Fire](https://www.beagleboard.org/boards/beaglev-fire) platform.
 
